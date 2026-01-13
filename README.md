@@ -1,33 +1,73 @@
----
-description: Binance Smart Chain Block Hash Exchange
-cover: .gitbook/assets/1181674801392_.pic_hd.jpg
-coverY: 0
----
+# Welcome to your Lovable project
 
-# 🇬🇧 Welcome
+## Project info
 
-Enjoy fast and seamless block hash trading with BlockDx Web 3.0 Dapp anytime, anywhere.&#x20;
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-## Plattform Quick Start
+## How can I edit this code?
 
-We've put together some helpful guides for you to understand our platform quickly and easily.
+There are several ways of editing your application.
 
-{% content-ref url="our-platform/trading-guide/" %}
-[trading-guide](our-platform/trading-guide/)
-{% endcontent-ref %}
+**Use Lovable**
 
-{% content-ref url="our-platform/swap.md" %}
-[swap.md](our-platform/swap.md)
-{% endcontent-ref %}
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-{% content-ref url="our-platform/dividends.md" %}
-[dividends.md](our-platform/dividends.md)
-{% endcontent-ref %}
+Changes made via Lovable will be committed automatically to this repo.
 
-{% content-ref url="our-platform/transaction.md" %}
-[transaction.md](our-platform/transaction.md)
-{% endcontent-ref %}
+**Use your preferred IDE**
 
-{% content-ref url="our-platform/referral.md" %}
-[referral.md](our-platform/referral.md)
-{% endcontent-ref %}
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
+
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+
+**Edit a file directly in GitHub**
+
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
